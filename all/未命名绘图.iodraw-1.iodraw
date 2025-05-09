@@ -35,7 +35,7 @@
           <mxGeometry x="240.07" y="906.77" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ipbP1CSH5J2wCM5fZPfq-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="493.77" width="60" height="120" as="geometry" />
+          <mxGeometry x="360" y="480" width="140" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
