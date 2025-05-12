@@ -64,38 +64,14 @@
         <mxCell id="vA_UEr4tgHqQBtFrl7WP-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;direction=south;fillColor=#ffdbbd;strokeColor=#b5b5b5;" parent="1" vertex="1">
           <mxGeometry x="210" y="320" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-24" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;direction=south;fillColor=#dae8fc;strokeColor=#bdbdbd;" vertex="1" parent="1">
-          <mxGeometry x="610" y="320" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-122" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=4;rounded=0;dashPattern=1 4;targetPerimeterSpacing=0;strokeColor=default;endSize=0;startSize=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="430" as="sourcePoint" />
-            <mxPoint x="720" y="430" as="targetPoint" />
+            <mxPoint x="630" y="489.5" as="sourcePoint" />
+            <mxPoint x="730" y="489.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-124" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=4;rounded=0;dashPattern=1 4;targetPerimeterSpacing=0;strokeColor=default;endSize=0;startSize=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="350" as="sourcePoint" />
-            <mxPoint x="720" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-125" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=4;rounded=0;dashPattern=1 4;targetPerimeterSpacing=0;strokeColor=default;endSize=0;startSize=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="364.5" as="sourcePoint" />
-            <mxPoint x="720" y="364.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-126" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=4;rounded=0;dashPattern=1 4;targetPerimeterSpacing=0;strokeColor=default;endSize=0;startSize=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="389.5" as="sourcePoint" />
-            <mxPoint x="720" y="389.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-127" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=4;rounded=0;dashPattern=1 4;targetPerimeterSpacing=0;strokeColor=default;endSize=0;startSize=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="414" as="sourcePoint" />
-            <mxPoint x="720" y="414" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="AZE72O2-9-fx4gcMQ27O-24" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;direction=south;fillColor=#dae8fc;strokeColor=#bdbdbd;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
