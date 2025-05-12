@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="sourcePoint" />
             <mxPoint x="490" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -42,8 +42,8 @@
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="400" as="sourcePoint" />
-            <mxPoint x="500" y="400" as="targetPoint" />
+            <mxPoint x="540" y="389.5" as="sourcePoint" />
+            <mxPoint x="590" y="389.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
