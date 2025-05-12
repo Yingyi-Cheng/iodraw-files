@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vA_UEr4tgHqQBtFrl7WP-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;direction=south;fillColor=#ffdbbd;strokeColor=#b5b5b5;" vertex="1" parent="1">
+        <mxCell id="vA_UEr4tgHqQBtFrl7WP-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;direction=south;fillColor=#ffdbbd;strokeColor=#b5b5b5;" parent="1" vertex="1">
           <mxGeometry x="120" y="340" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vA_UEr4tgHqQBtFrl7WP-2" value="B&lt;sub&gt;t-1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vA_UEr4tgHqQBtFrl7WP-2" value="B&lt;sub&gt;t-1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="135" y="420" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vA_UEr4tgHqQBtFrl7WP-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;direction=south;fillColor=#dae8fc;strokeColor=#bdbdbd;" vertex="1" parent="1">
-          <mxGeometry x="210" y="340" width="70" height="80" as="geometry" />
+        <mxCell id="vA_UEr4tgHqQBtFrl7WP-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;direction=south;fillColor=#dae8fc;strokeColor=#bdbdbd;" parent="1" vertex="1">
+          <mxGeometry x="110" y="350" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vA_UEr4tgHqQBtFrl7WP-4" value="B&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vA_UEr4tgHqQBtFrl7WP-4" value="B&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="420" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
