@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qBBVSA6IaO70wtpfAU9h-21" value="" style="shape=mxgraph.signs.transportation.airplane_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="410" y="412" width="20" height="18" as="geometry" />
+          <mxGeometry x="410" y="420" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
