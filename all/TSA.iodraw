@@ -70,11 +70,11 @@
         <mxCell id="vA_UEr4tgHqQBtFrl7WP-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;direction=south;fillColor=#dae8fc;strokeColor=#bdbdbd;" parent="AZE72O2-9-fx4gcMQ27O-14" vertex="1">
           <mxGeometry width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vA_UEr4tgHqQBtFrl7WP-4" value="B&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AZE72O2-9-fx4gcMQ27O-14" vertex="1">
-          <mxGeometry x="20" y="80" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vA_UEr4tgHqQBtFrl7WP-2" value="B&lt;sub&gt;t-1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vA_UEr4tgHqQBtFrl7WP-4" value="B&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="450" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
