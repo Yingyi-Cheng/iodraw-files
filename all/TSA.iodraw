@@ -80,7 +80,10 @@
           <mxGeometry x="545" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-37" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="300" width="20" height="20" as="geometry" />
+          <mxGeometry x="525" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AZE72O2-9-fx4gcMQ27O-38" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="300" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
