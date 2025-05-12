@@ -185,7 +185,7 @@
           <mxGeometry x="80.00000000000001" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-142" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="790" y="390" width="100" height="100" as="geometry" />
+          <mxGeometry x="590" y="320" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-143" value="" style="group;sketch=0;fillStyle=solid;pointerEvents=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=none;" vertex="1" connectable="0" parent="AZE72O2-9-fx4gcMQ27O-142">
           <mxGeometry y="80" width="100.00000000000001" height="20" as="geometry" />
