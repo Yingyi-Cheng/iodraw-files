@@ -29,12 +29,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-6" value="Linear" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AZE72O2-9-fx4gcMQ27O-10">
-          <mxGeometry x="40" width="50" height="20" as="geometry" />
+          <mxGeometry x="30" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="AZE72O2-9-fx4gcMQ27O-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="9.5" as="sourcePoint" />
-            <mxPoint x="130" y="10" as="targetPoint" />
+            <mxPoint x="120" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-13" value="" style="group" vertex="1" connectable="0" parent="1">
