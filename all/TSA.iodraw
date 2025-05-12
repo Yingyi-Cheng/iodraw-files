@@ -232,7 +232,7 @@
         <mxCell id="AZE72O2-9-fx4gcMQ27O-157" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=0;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=none;" vertex="1" parent="AZE72O2-9-fx4gcMQ27O-155">
           <mxGeometry x="20.000000000000004" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-158" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=0;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=none;" vertex="1" parent="AZE72O2-9-fx4gcMQ27O-155">
+        <mxCell id="AZE72O2-9-fx4gcMQ27O-158" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=none;strokeColor=#ff0000;" vertex="1" parent="AZE72O2-9-fx4gcMQ27O-155">
           <mxGeometry x="40.00000000000001" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-159" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=0;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=none;" vertex="1" parent="AZE72O2-9-fx4gcMQ27O-155">
