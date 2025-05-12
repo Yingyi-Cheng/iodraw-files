@@ -161,7 +161,7 @@
           <mxGeometry x="80.00000000000001" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-121" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="20" height="20" as="geometry" />
+          <mxGeometry x="560" y="500" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
