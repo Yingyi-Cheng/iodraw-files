@@ -166,7 +166,7 @@
         <mxCell id="AZE72O2-9-fx4gcMQ27O-111" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="AZE72O2-9-fx4gcMQ27O-106">
           <mxGeometry x="80.00000000000001" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-112" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="AZE72O2-9-fx4gcMQ27O-141">
+        <mxCell id="AZE72O2-9-fx4gcMQ27O-112" value="" style="group;strokeColor=default;strokeWidth=0;" vertex="1" connectable="0" parent="AZE72O2-9-fx4gcMQ27O-141">
           <mxGeometry y="60" width="100.00000000000001" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-113" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="AZE72O2-9-fx4gcMQ27O-112">
