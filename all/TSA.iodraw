@@ -97,21 +97,6 @@
         <mxCell id="AZE72O2-9-fx4gcMQ27O-65" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="370" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-66" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="380" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-67" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="380" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-68" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="380" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-69" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="380" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AZE72O2-9-fx4gcMQ27O-70" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="380" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-92" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="510" y="340" width="100" height="20" as="geometry" />
         </mxCell>
@@ -131,7 +116,7 @@
           <mxGeometry x="80" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-93" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="535" y="390" width="100" height="20" as="geometry" />
+          <mxGeometry x="510" y="280" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZE72O2-9-fx4gcMQ27O-71" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="AZE72O2-9-fx4gcMQ27O-93">
           <mxGeometry width="20" height="20" as="geometry" />
